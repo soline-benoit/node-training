@@ -1,2 +1,2 @@
-# node-training
-A Node application for my personal training.
+# Node.js Training
+A Node.js application for my personal training.
